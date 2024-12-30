@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background: #012634;
+    
+}
+.canvas-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#canvas1{
+    /* margin: auto; */
+    border-radius: 100px;
+}
+#canvas2{
+    /* margin: auto; */
+    border-radius: 50%;
+}
